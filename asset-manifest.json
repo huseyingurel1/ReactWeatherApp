@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/huseyingurel1/ReactWeatherApp/static/css/main.9705b4ea.css",
+    "main.js": "/huseyingurel1/ReactWeatherApp/static/js/main.dfe348dd.js",
+    "static/js/787.74e6b0f6.chunk.js": "/huseyingurel1/ReactWeatherApp/static/js/787.74e6b0f6.chunk.js",
+    "static/media/sun.jpg": "/huseyingurel1/ReactWeatherApp/static/media/sun.d0b0f03b2c2d4dc39f07.jpg",
+    "static/media/rain.jpg": "/huseyingurel1/ReactWeatherApp/static/media/rain.2cf067ae7d94de58a742.jpg",
+    "static/media/cloud.jpg": "/huseyingurel1/ReactWeatherApp/static/media/cloud.90c483d676b032ef9b3a.jpg",
+    "index.html": "/huseyingurel1/ReactWeatherApp/index.html",
+    "main.9705b4ea.css.map": "/huseyingurel1/ReactWeatherApp/static/css/main.9705b4ea.css.map",
+    "main.dfe348dd.js.map": "/huseyingurel1/ReactWeatherApp/static/js/main.dfe348dd.js.map",
+    "787.74e6b0f6.chunk.js.map": "/huseyingurel1/ReactWeatherApp/static/js/787.74e6b0f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9705b4ea.css",
+    "static/js/main.dfe348dd.js"
+  ]
+}
